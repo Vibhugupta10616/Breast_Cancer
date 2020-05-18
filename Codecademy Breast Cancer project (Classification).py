@@ -38,4 +38,3 @@ print(classifier.score(validation_data , validation_labels))
 
 
 
-
